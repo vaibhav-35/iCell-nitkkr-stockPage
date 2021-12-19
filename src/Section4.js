@@ -9,7 +9,7 @@ function Section4(){
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra nunc ante velit vitae. Est tellus vitae, nullam lobortis enim. Faucibus amet etiam tincidunt rhoncus, ullamcorper velit. Ullamcorper risus tempor, ac nunc libero urna, feugiat.</p>
             </div>
             <div className='section4-bottom'>
-                <div id='sep'></div>
+                
                 <Card src='images/Profile.png' name='CARLA PRESS' desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra nunc ante velit vitae. Est tellus vitae.' fb='#' insta='#'  twitter='#' yt='#' title="APP DEVELEPOR"/>
                 
                 <Card src='images/Profile.png' name='CARLA PRESS' desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra nunc ante velit vitae. Est tellus vitae.' fb='#' insta='#'  twitter='#' yt='#'title="APP DEVELEPOR"/>
