@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+.Hero{
+  background-image:url('../public/images/background-hero.png');
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.registration-outline{
+        min-height: 60vh;
+        min-width: 35vw;
+        border: 18px solid #7572FF;
+        position: relative;
+        overflow: visible;
+}
+.registration{
+  background-color: #fff;
+  height: 46vh;
+  width: 32vw;
+  padding:2vh ;
+  position: absolute;
+  top:5vh; 
+  left: -15%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start ;
+}
+.registration *{
+  font-family: 'Josefin Sans',sans-serif;
+}
+.registration h1,.registration h4{
+  width: 28vw;
+}
+.registration h4{
+  color:black;
+}
+#hero-mobile{
+  height: 80vh;
+}
+.registration-outline h1{
+  color:#5956E9;
+  font-size: 2.4rem;
+  font-weight: 800;
+  height: 10vh;
+}
+.registration p{
+  font-size: 1rem;
+  padding-bottom: 5vh;
+  color: gray;
+  width: 28vw;
+}
+.input-email{
+  width: 24vw;
+  position: relative;
+  height: 40px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+#email-id{
+  width: 24vw;
+  outline: none;
+  border: none;
+  box-shadow: -5px 5px 3px lightgray, 5px 5px 3px lightgray;
+  height: 40px;
+  margin-top:10px ;
+  border-radius: 5px;
+  padding-left: 5px;
+}
+.submit-email{
+  height: 40px;
+  width: 40px;
+  background-color:  #5956E9;
+  position: absolute;
+  right:0px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

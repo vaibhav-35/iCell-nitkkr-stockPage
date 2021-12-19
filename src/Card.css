@@ -1,0 +1,44 @@
+.Card{
+    position: relative;
+    height: 60vh;
+    width: 25vw;
+    box-shadow: 0 0 10px lightgray;
+    text-align: center;
+    margin: 2vh;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.Card-desc{
+    width: 24vw;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.card-profile{
+    width: 10vw;
+}
+.Card-desc p,h4{
+    color:gray;
+    width: 20vw;
+}
+
+.Card-links{
+    display: flex;
+    height: 10vh;
+    width: 20vw;
+    justify-content:center;
+    align-items: center;
+}
+
+.Card-links a {
+    width: 4vw;
+    border-right: solid 1px gray;
+}
+.Card-links a:last-child{
+    border: none;
+}

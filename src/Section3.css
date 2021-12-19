@@ -1,0 +1,37 @@
+.section3{
+    margin-top:10vh;
+    height: 120vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.section3 h1{
+    font-size: 2rem;
+}
+.section3-top{
+    height: 25vh;
+    width: 40vw;
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.section3-top p{
+    color:gray;
+}
+.section3-bottom {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section3-bottom-right{
+    height: 70vh;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    align-items: center;
+}

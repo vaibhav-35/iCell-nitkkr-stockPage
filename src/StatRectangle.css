@@ -1,0 +1,11 @@
+#statrectangle{
+    width: 20vh;
+    height: 20vh;
+    background-color: #5851EA;
+    color: #fff;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}

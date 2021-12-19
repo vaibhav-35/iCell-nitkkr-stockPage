@@ -1,0 +1,26 @@
+#floating-img-container{
+    width: 40vw;
+    height: 70vh;
+    background-color: inherit;
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#base{
+    width: 20vw;
+    height: 20vw;
+    border-radius: 50%;
+    box-shadow: 5px 5px lightgray,-5px 5px lightgray;
+    transform: rotateX(75deg);
+    background-color: #fff;
+    position: absolute;
+    top:45vh;
+}
+#floating-img{
+    width: 33vw;
+    height: 60vh;
+    z-index: 1;
+}
