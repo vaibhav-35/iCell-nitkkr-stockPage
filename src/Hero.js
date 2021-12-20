@@ -12,7 +12,7 @@ function Hero() {
 
           <div className='input-email'>
           <input type='email'  placeholder='Your email address' id='email-id'></input>
-          <div className='submit-email'><img src='images/Vector.png'></img></div>
+          <div className='submit-email'><img src='images/Vector.png' alt='img'></img></div>
         </div>     
       </div>
       
