@@ -10,8 +10,8 @@ function Section2(){
             <h2>DOWNLOAD APP NOW</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra nunc ante velit vitae. Est tellus vitae, nullam lobortis enim. Faucibus amet etiam tincidunt rhoncus, ullamcorper velit. Ullamcorper risus tempor, ac nunc libero urna, feugiat.</p>
             <div className='download-btn'>
-            <img src='images/PlayStore.png'></img>
-            <img src='images/AppleStore.png'></img>
+            <img src='images/PlayStore.png' alt='Img'></img>
+            <img src='images/AppleStore.png' alt='Img'></img>
             </div>
             <div className='stats'>
                 <StatRectangle src='Icons/download.png' value="59865" message="DOWNLOAD"/>

@@ -17,7 +17,7 @@ function Hero() {
       </div>
       
       </div>
-        <img src='images/hero-mobile.png' id='hero-mobile'></img>
+        <img src='images/hero-mobile.png' id='hero-mobile' alt='Img'></img>
       
     </section>
   );
