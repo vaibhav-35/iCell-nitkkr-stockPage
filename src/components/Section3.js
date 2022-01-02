@@ -5,6 +5,7 @@ function Section3(){
     return (
         <section className='section3'>
         <div className='section3-top'>
+            
             <h1>ABOUT OUR APP</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra nunc ante velit vitae. Est tellus vitae, nullam lobortis enim. Faucibus amet etiam tincidunt rhoncus, ullamcorper velit. Ullamcorper risus tempor, ac nunc libero urna, feugiat.</p>
         </div>

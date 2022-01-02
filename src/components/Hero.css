@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 .Hero{
-  background-image:url('../public/images/background-hero.png');
+  background-image:url('../../public/images/background-hero.png');
   width: 100vw;
   height: 100vh;
   display: flex;
